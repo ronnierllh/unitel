@@ -1,8 +1,12 @@
 
-/*var num1 = prompt('Digite o primeiro numero');
+/*
+Exercicio 1
+var num1 = prompt('Digite o primeiro numero');
 var num2 = prompt('Digite o segundo numero');
 var num3 = prompt('Digite o terceiro numero');
 var result = num1 * num2 * num3;
+
+Exercicio 3
 var resto = 5 % 2;
 console.log('A multiplicação de '+num1+', '+num2+' e '+num3+' é: '+result);
 console.log('O resto da divisão de 5 por 2 é: '+resto);*/
